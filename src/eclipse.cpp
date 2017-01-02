@@ -1,5 +1,5 @@
 /* CREATED BY, JUBIN JOSE, Watch music video created 
-with this code here: https://www.youtube.com/watch?feature=player_detailpage&v=hOQuOEuVV5o
+with this code here: https://www.youtube.com/watch?v=8LdwhOEwMiU
 Read Full details about this Project: http://iamjbn.blogspot.in/2012/05/eclipse-graphics-animation-music-video.html
 Get me on facebook: https://facebook.com/PixVfx
 Get me on twitter: https://twitter.com/IamJubin
