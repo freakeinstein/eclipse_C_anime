@@ -99,11 +99,14 @@ int main( )
 	initwindow( 700 ,700 , "WinBGIm" );
 	int val;
 	HANDLE handle;
-//	bezierCurve(0,100,500,200,0,300);
-//	for(i=0;i<500;i+=2)
-//    {w=rand()%100;
-//    Wiggle(i,i,i+2,i+2,5+w);delay(0);
-//    }
+/*
+ *    bezierCurve(0,100,500,200,0,300);
+ *    for(i=0;i<500;i+=2)
+ *    {w=rand()%100;
+ *    Wiggle(i,i,i+2,i+2,5+w);delay(0);
+ *    }
+ *
+ */
 maxx=getmaxx();
 maxy=getmaxy();
 handle = (HANDLE) _beginthread( sound_thread,0,&val);
